@@ -7,8 +7,7 @@
 <script>
 	export default {
 		data() {
-			return {
-			}
+			return {}
 		},
 		onLoad() {
 		},
